@@ -1,0 +1,1 @@
+import{j as r}from"./index-D9eU06Ur.js";import{N as t}from"./_NavPreviewBase-DiHwN99n.js";import"./Glyphs-CRuY5q6d.js";import"./createLucideIcon-DMC_rQdR.js";import"./chevron-down-hJe4ml5G.js";function s(){return r.jsx(t,{compact:!1})}export{s as Current};

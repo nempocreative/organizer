@@ -1,0 +1,1 @@
+const o=new Map,s=5e3;async function c(t){const e=o.get(t);if(e&&Date.now()-e.ts<s)return e.data;const n=await fetch(t);if(!n.ok)throw new Error(`${n.status}`);const a=await n.json();return o.set(t,{data:a,ts:Date.now()}),a}export{c as cachedFetch};

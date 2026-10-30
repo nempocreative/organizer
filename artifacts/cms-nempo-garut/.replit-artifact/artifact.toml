@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/cms-nempo-garut/"
+title = "CMS Nempo Garut"
+description = "CMS Nempo Garut untuk mengelola konten wilayah dengan autentikasi terpisah dan API ke PostgreSQL independen."
+version = "1.0.0"
+id = "artifacts/cms-nempo-garut"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/cms-nempo-garut/" ]
+localPort = 21242
+
+[services.development]
+run = "pnpm --filter @workspace/cms-nempo-garut run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/cms-nempo-garut", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/cms-nempo-garut/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21242"
+BASE_PATH = "/cms-nempo-garut/"

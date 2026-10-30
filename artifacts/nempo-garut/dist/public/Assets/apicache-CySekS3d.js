@@ -1,0 +1,1 @@
+const a=new Map,s=5e3;async function c(t){const e=a.get(t);if(e&&Date.now()-e.ts<s)return e.data;const n=await fetch(t);if(!n.ok)throw new Error(`${n.status}`);const o=await n.json();return a.set(t,{data:o,ts:Date.now()}),o}function i(t){a.delete(t)}export{c as cachedFetch,i as invalidate};

@@ -1,0 +1,324 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "7TRz3Az5-xZPUz0Z77352"
+uri = "file://attached_assets/generated_images/digital-growth-banner.jpg"
+type = "image"
+title = "Banner Tumbuh Bersama di Era Digital"
+description = "Foto AI horizontal untuk banner partnership kecil di bawah beranda Nempo."
+logical_id = "ebb9d59f-51bd-4d02-b3b9-b13e4b4166fb"
+content_hash = "sha256:395afe5e1de0f09b61c25063ba9765bcf81a59b9ec5077a7da14558ad9fb0ea5"
+size = 99766
+mtime_ms = 1789409262808
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:1a74f3db-89e8-45be-b9a8-49ca3ad99725/ebb9d59f-51bd-4d02-b3b9-b13e4b4166fb/027064e6-99e3-4067-a4f8-c74acd9a3e80"
+storage_version_token = "1789409363692957"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "TwaAo3KIHDNeeC8FAMyLR"
+uri = "file://attached_assets/generated_images/cafe-partnership-banner.jpg"
+type = "image"
+title = "Banner Cafe Kamu Lebih Mudah Ditemukan"
+description = "Foto AI horizontal untuk banner partnership cafe di bawah beranda Nempo."
+logical_id = "b94e2d7d-a5cf-4fb8-8293-c20515dd9da9"
+content_hash = "sha256:37e3e8ab50a7f402cf809c07082b23d40361e14d93953e0fa4f59115c3074000"
+size = 94787
+mtime_ms = 1789409487559
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:1a74f3db-89e8-45be-b9a8-49ca3ad99725/b94e2d7d-a5cf-4fb8-8293-c20515dd9da9/9da3d04c-bd29-488b-b3ce-f5f482138c48"
+storage_version_token = "1789409585891762"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "9BbWTONmRmKjkv4886xhT"
+uri = "file://artifacts/nempo-garut/public/audio/nempo-train-arrival.mp3"
+type = "audio"
+title = "Pengumuman Kedatangan Kereta Nempo — pengucapan diperbaiki"
+description = "Versi revisi dengan voice Bahasa Indonesia yang lebih natural, pengucapan nama diarahkan menjadi NEM-po, tempo lebih santai, ambience stasiun, bel, suara kereta, dan klakson penutup. Durasi 17,6 detik."
+logical_id = "fbf5dea2-6c0f-4a96-a5ef-88ae9e74a3f0"
+content_hash = "sha256:1b36b533776ca1086315f13f8f6a44a7897d8af8b206ccf7cdc81b6f20070835"
+size = 352175
+mtime_ms = 1789465061227
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:54d3b840-5348-4ff1-887d-f463ced49721/fbf5dea2-6c0f-4a96-a5ef-88ae9e74a3f0/fb4d8b9a-1f37-4298-b3ef-2d6c84446e0f"
+storage_version_token = "1789465071309454"
+content_type = "audio/mpeg"
+
+[[outputs]]
+id = "_HbsxOTjO4un6eSsNQxHf"
+uri = "file://artifacts/nempo-garut/public/audio/nempo-train-arrival-garut.mp3"
+type = "audio"
+title = "Pengumuman Kereta — Stasiun Garut"
+description = "Audio pengumuman Bahasa Indonesia dengan sebutan Stasiun Garut, ambience kereta dan bel stasiun. Durasi 17,6 detik."
+logical_id = "11749b9a-b29a-4609-8b2e-b99205aeb820"
+content_hash = "sha256:6253a879b07b1906cf4a009219b26202ca7d8c97b4cbb284088f87258a79d33d"
+size = 352175
+mtime_ms = 1789465215903
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:54d3b840-5348-4ff1-887d-f463ced49721/11749b9a-b29a-4609-8b2e-b99205aeb820/229eeb43-40de-4345-9ebe-235e0b957426"
+storage_version_token = "1789465309426109"
+content_type = "audio/mpeg"
+
+[[outputs]]
+id = "LWkyA7eRNZOnOYOwlSwj1"
+uri = "file://artifacts/nempo-garut/public/audio/nempo-train-arrival-bandung.mp3"
+type = "audio"
+title = "Pengumuman Kereta — Stasiun Bandung"
+description = "Audio pengumuman Bahasa Indonesia dengan sebutan Stasiun Bandung, ambience kereta dan bel stasiun. Durasi 17,6 detik."
+logical_id = "e6ddc17f-1c44-48a4-bc3f-42ade3b8ca71"
+content_hash = "sha256:2a2c01f98c30ea220710d8e11855f2375c353b94df3501532b31cc23ead0134e"
+size = 352175
+mtime_ms = 1789465217719
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:54d3b840-5348-4ff1-887d-f463ced49721/e6ddc17f-1c44-48a4-bc3f-42ade3b8ca71/d9697040-8dbb-420f-8548-3d9b114e78f2"
+storage_version_token = "1789465310799464"
+content_type = "audio/mpeg"
+
+[[outputs]]
+id = "inCrNfRyXuj1cJerLF_K_"
+uri = "file://artifacts/nempo-garut/public/audio/nempo-train-arrival-tasikmalaya.mp3"
+type = "audio"
+title = "Pengumuman Kereta — Stasiun Tasikmalaya"
+description = "Audio pengumuman Bahasa Indonesia dengan sebutan Stasiun Tasikmalaya, ambience kereta dan bel stasiun. Durasi 17,6 detik."
+logical_id = "8e3b1882-4213-4f33-9bbd-6f5396f4ea8e"
+content_hash = "sha256:ebbb70439ccf7421ce1647af46d344a9f1cc55c4a1ef2adcb3f5cb928ac8eb24"
+size = 352175
+mtime_ms = 1789465219511
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:54d3b840-5348-4ff1-887d-f463ced49721/8e3b1882-4213-4f33-9bbd-6f5396f4ea8e/03788e9b-4a99-4b91-a643-b285496ab968"
+storage_version_token = "1789465312070881"
+content_type = "audio/mpeg"
+
+[[outputs]]
+id = "vW3I--jKy0ZEQPArvVMrH"
+uri = "file://artifacts/nempo-garut/public/audio/nempo-train-arrival-bogor.mp3"
+type = "audio"
+title = "Pengumuman Kereta — Stasiun Bogor"
+description = "Audio pengumuman Bahasa Indonesia dengan sebutan Stasiun Bogor, ambience kereta dan bel stasiun. Durasi 17,6 detik."
+logical_id = "b1a258ac-bcc9-4662-9a79-08a6b6625ed9"
+content_hash = "sha256:971e9ac0d2446ad4d5b28e7822ca7c8ef86b20fa4ddbfdfbc1a7eca91151282f"
+size = 352175
+mtime_ms = 1789465221263
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:54d3b840-5348-4ff1-887d-f463ced49721/b1a258ac-bcc9-4662-9a79-08a6b6625ed9/9bbcab7e-4724-4e66-a061-7409a4871c3e"
+storage_version_token = "1789465313371169"
+content_type = "audio/mpeg"
+
+[[outputs]]
+id = "MN3VrPpZpMeVjOe9lVdlA"
+uri = "file://artifacts/tion-feed/public/assets/tion-retro-portrait-ai.png"
+type = "image"
+title = "Foto retro Slide 1"
+description = "Potret AI bergaya jadul yang dipakai di dalam bingkai poster Slide 1, tanpa poster utuh."
+logical_id = "16aadbfc-9a22-4408-9a23-d6965b2098c7"
+content_hash = "sha256:8886e6f5deb2ea684bf1dc89cc394326546831f6f3c8d941495f92c77d8f8a8f"
+size = 1706742
+mtime_ms = 1791472162332
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:5e64905a-9681-4d3d-a574-49d37cf45c84/16aadbfc-9a22-4408-9a23-d6965b2098c7/22748403-a834-4391-88f0-9b7227b02cf0"
+storage_version_token = "1791475477736607"
+content_type = "image/png"
+
+[[outputs]]
+id = "yiNgLgXU-7G12ll_WBo4u"
+uri = "file://artifacts/tion-feed/public/assets/tion-story-group-blue.png"
+type = "image"
+title = "Foto Story Tion Feed — busana biru"
+description = "Foto pertama dengan busana bernuansa biru; area wajah dipertahankan dari foto asli."
+logical_id = "698dbbbe-95fa-48c0-9fdb-4e928ea4cba8"
+content_hash = "sha256:e2d87c56d6fe2bad08df290f581623579f0a8ca1c8e2b42686d9608e3cc528fb"
+size = 15962463
+mtime_ms = 1791563332755
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:5ffbabde-9b38-493e-9ae7-c0391ccaf524/698dbbbe-95fa-48c0-9fdb-4e928ea4cba8/b6ec9561-976e-46da-926f-81ce90a01eb6"
+storage_version_token = "1791566703810998"
+content_type = "image/png"
+
+[[outputs]]
+id = "11bPc7H_ujg5I3m4-doeb"
+uri = "file://artifacts/tion-feed/public/assets/tion-story-wedding-background-9x16.jpg"
+type = "image"
+title = "Latar Story — Pelaminan Bunga"
+description = "Latar pernikahan 9:16 tanpa orang, dengan kain krem, bunga putih dan biru muda, serta area tengah dan bawah yang lapang."
+logical_id = "51c14672-b32e-43c1-ac8c-c657d771f483"
+content_hash = "sha256:8edeea44cdbe7532c25b810c63b99dce743ac3dc2464fb82ce45a3d4e8f360df"
+size = 486546
+mtime_ms = 1791569468991
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:c2b732ee-9521-49e8-9305-1145b7546668/51c14672-b32e-43c1-ac8c-c657d771f483/f35b2113-2d13-4b76-a11b-f1411140c18d"
+storage_version_token = "1791569567626447"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "LMcThBqu9Ug85yRzFhUqj"
+uri = "file://attached_assets/generated_images/tion-wedding-story-poster.jpg"
+type = "image"
+title = "Poster Tion Feed Story"
+description = "Poster wedding vertikal 1080 × 1920, memadukan empat foto asli dengan latar wedding natural-elegan. Wajah pada foto tidak diedit; ruang bawah dibiarkan kosong untuk teks."
+logical_id = "786f266a-89e0-4225-98cb-de996a1a3539"
+content_hash = "sha256:7725a89ddf95cdd0c02bd03795977e40d9cdd0504a4f27fe119365a23c8cae6f"
+size = 362727
+mtime_ms = 1791576936788
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:c0afe57f-c0d8-425b-9ad2-b2df2a44ac45/786f266a-89e0-4225-98cb-de996a1a3539/4c6256c6-e5c5-4bd4-91c0-40aff349bb70"
+storage_version_token = "1791576967670196"
+content_type = "image/jpeg"
+
+[[outputs]]
+id = "47Ta9fnstFHgTNufpHpT6"
+uri = "file://attached_assets/ggs-beauty-logo-transparent-2x.png"
+type = "image"
+title = "Logo GGS Beauty — transparan 2×"
+description = "PNG transparan 2508×2508 px, dengan latar luar dihapus dan bidang putih di dalam emblem tetap dipertahankan."
+logical_id = "46027e49-ee9c-4980-8552-6b412254411d"
+content_hash = "sha256:3b2ff9521efd17a38efc2f2b11588235148490bc64f2b75840aea54337e6576e"
+size = 4770339
+mtime_ms = 1791740518172
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:2b633a3e-da6f-409c-a403-c3681635d436/46027e49-ee9c-4980-8552-6b412254411d/9b8c60c5-a307-43b1-b783-de5dc3316c9c"
+storage_version_token = "1791740610949614"
+content_type = "image/png"
+
+[[outputs]]
+id = "yjVp6qoqN1cS5WAJbhmrr"
+uri = "file://attached_assets/generated_images/ggs-real-facade-pink-ribbon-curtains-20261012.webp"
+type = "image"
+title = "Fasad GGS dengan Tirai Pita"
+description = "Foto lokasi asli yang dibingkai tirai satin merah muda dengan AI; sudah dipakai sebagai foto tengah di GGS Nempo Feed."
+logical_id = "93454da3-1cfa-48d6-a01e-7a24f324650c"
+content_hash = "sha256:ef82739dac616a73703e4e739a5f864607afb689e9d9737d145b1cc32a1641ff"
+size = 225078
+mtime_ms = 1791788624075
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:961222e0-2c0c-48ee-bf01-53b5894b529c/93454da3-1cfa-48d6-a01e-7a24f324650c/eaec4a09-c9ac-440c-b73d-322893146459"
+storage_version_token = "1791788716994259"
+content_type = "image/webp"
+
+[[outputs]]
+id = "8CiPMvNxsqZfO5KCdMUVA"
+uri = "file://attached_assets/generated_images/ggs-transparent-storefront-pink-curtains-20261012.png"
+type = "image"
+title = "Gedung AI GGS Beauty — Transparan"
+description = "Cutout fasad salon baru dengan tirai pita pink-plum dan papan nama GGS Beauty; latar transparan, sudah dipasang di GGS Nempo Feed."
+logical_id = "a950d827-c26b-4f83-8f4c-811297966fc1"
+content_hash = "sha256:dd61f7c4d3c46af224a7231d5135cb133534cd8a7ffce25e5f8d16be4fdb6db3"
+size = 1503610
+mtime_ms = 1791790492164
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:961222e0-2c0c-48ee-bf01-53b5894b529c/a950d827-c26b-4f83-8f4c-811297966fc1/48ab25ea-8406-4de1-a126-271972c1556d"
+storage_version_token = "1791790797586120"
+content_type = "image/png"
+
+[[outputs]]
+id = "cMpeb0Q5fa9v0vlpALti6"
+uri = "file://attached_assets/generated_images/ggs-transparent-storefront-red-stage-curtains-20261012.png"
+type = "image"
+title = "Gedung GGS dengan Tirai Merah — Transparan"
+description = "Ilustrasi AI fasad salon GGS dengan tirai merah dramatis dan interior hangat; latar transparan, siap dipakai ulang."
+logical_id = "371adc19-6c6d-4b5e-b53b-17abe3f62f22"
+content_hash = "sha256:a785c0afd50dcaad8a84bff9fd5d65ec7832edee6fd48a5187be5909ae34cf63"
+size = 1524675
+mtime_ms = 1791790898758
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:961222e0-2c0c-48ee-bf01-53b5894b529c/371adc19-6c6d-4b5e-b53b-17abe3f62f22/e197f660-d1c6-4ccb-a496-b56135e7625c"
+storage_version_token = "1791790997438348"
+content_type = "image/png"
+
+[[outputs]]
+id = "thlxied17-zdsJCwUCaKt"
+uri = "file://attached_assets/generated_images/ggs-slide2-three-women-cutout-wide-20261013.png"
+type = "image"
+title = "Ilustrasi 3 perempuan GGS — PNG transparan"
+description = "Ilustrasi baru tanpa latar, dipasang di GGS Feed slide 2."
+logical_id = "2ad06347-cb87-4914-beb5-5e8fd15a6cd1"
+content_hash = "sha256:85879e2dcbc87be280a2fcabb40c75a6cbf72020cacd967c8fbd81614c24f41c"
+size = 1335254
+mtime_ms = 1791834956334
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:5386a150-3527-43f3-b105-3bcb79ce7b4c/2ad06347-cb87-4914-beb5-5e8fd15a6cd1/30625236-894d-41e4-b2fa-597c82758373"
+storage_version_token = "1791835100398027"
+content_type = "image/png"
+
+[[outputs]]
+id = "I9MigZHbrgE1MCOKi2-qu"
+uri = "file://attached_assets/generated_images/ggs-slide4-hair-header-transparent-20261014.png"
+type = "image"
+title = "GGS Beauty — Hair Header Transparan"
+description = "Aset ornamen rambut pink transparan tanpa background, untuk header slide 4."
+logical_id = "aed6d945-a433-45ff-87fe-6a788c716957"
+content_hash = "sha256:05dd8e65d1a575fdc565d5fabacb75e3cd62b0440225a37139eb25b367d7f434"
+size = 1802076
+mtime_ms = 1791975116052
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:55a1824a-8971-4f7b-a90d-5431c0a9472a/aed6d945-a433-45ff-87fe-6a788c716957/3d13d2a5-effd-4d19-98d8-68c7ac008340"
+storage_version_token = "1791975245853920"
+content_type = "image/png"
+
+[[outputs]]
+id = "fBVa5yJvdA_0JfTijH8EG"
+uri = "file://generated-artifacts/nempo-mou-qcard-rundown.pdf"
+type = "pdf"
+title = "Nempo MOU — Q Card Rundown"
+description = "PDF final, 9 halaman A4, berisi kartu jadwal lanjutan dan panduan MC."
+logical_id = "ef648560-0c1c-434e-a3b6-97764c694a6d"
+content_hash = "sha256:bd2ec5b46fab25572e77a609f20282d84c498e039ca6c7d295fa81512d16d3c4"
+size = 592334
+mtime_ms = 1792287654104
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:28d0fbb8-4453-482d-9cb3-3c71fb7d8fd6/ef648560-0c1c-434e-a3b6-97764c694a6d/a8bd320f-d72d-4a07-88cc-1285c7d82e96"
+storage_version_token = "1792287663143287"
+content_type = "application/pdf"
+
+[[outputs]]
+id = "zfAC_DytrqJakVZqdMG_k"
+uri = "file://generated-artifacts/jadwal-kerja-kala-muda-ggs.xlsx"
+type = "table"
+title = "Jadwal Kerja Kala Muda — GGS"
+description = "Workbook Excel dengan panduan, pengaturan shift dan bobot nilai, jadwal bulanan, serta rekap kinerja otomatis. Nama karyawan masih kosong; periode contoh November 2026 dan jam shift dapat diedit."
+logical_id = "e3a24ee9-f846-45c7-9096-bfc814513ad3"
+content_hash = "sha256:d8050049a6ad51f138064cc63c9ff974314d5ce16e8c952a627220955193e060"
+size = 39186
+mtime_ms = 1792426912686
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:bb09f6e9-479f-4ae3-8152-a4d690ddea28/e3a24ee9-f846-45c7-9096-bfc814513ad3/501bcb9b-f4fc-46ce-95e5-c12e9691f7aa"
+storage_version_token = "1792426958505441"
+content_type = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+
+[[outputs]]
+id = "USe9ER1Sv5mgACAr6AEG4"
+uri = "file://generated-artifacts/nempo-feed/nempo-feed-20.png"
+type = "image"
+title = "Nempo Feed — Slide 20 · PNG 3×"
+description = "PNG 3240 × 4320 px dengan latar rumah anyaman, logo, ilustrasi, dan teks lengkap."
+logical_id = "2e85e4d1-4ab8-4072-9496-5d3fb715f343"
+content_hash = "sha256:b9d482943d29cfd56e7033c7a01c993ac8854bdc6b41def3fc548529f17c2452"
+size = 20098781
+mtime_ms = 1792575003592
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:9b9a8e2c-35a0-420d-9de8-cb1c14e9599e/2e85e4d1-4ab8-4072-9496-5d3fb715f343/d2b14014-3ec5-40ed-abbb-7a53f4021279"
+storage_version_token = "1792594378203438"
+content_type = "image/png"
+
+[[outputs]]
+id = "865iKnvnARH5avPNsDOiM"
+uri = "file://generated-artifacts/Nasution-Boy-Storyline.pdf"
+type = "pdf"
+title = "Nasution Boy Storyline — PDF"
+description = "PDF hasil koreksi: 3 halaman A4, satu scene per halaman, tanpa URL Replit, tanggal, atau nomor halaman browser."
+logical_id = "96d30142-99a7-4247-9b05-9185b7fd1ce7"
+content_hash = "sha256:b920d211b41b40c432aa02c0dc5ad8ecfd5f2c56581dc04e0d8ea98fe2fd7d60"
+size = 41120
+mtime_ms = 1792682782533
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:e288ebd5-0941-40d8-8f73-b2af7af5924a/96d30142-99a7-4247-9b05-9185b7fd1ce7/41a545df-bd9c-4e94-bb6c-7e17c7f21b94"
+storage_version_token = "1792682795846005"
+content_type = "application/pdf"
+
+[[outputs]]
+id = "taFTcxu0t6l5P98ZN6UCB"
+uri = "file://artifacts/tion-feed/public/assets/ngopi-sore-episode-01-bumper.mp4"
+type = "video"
+title = "Video Bumper Ngopi Sore — Teks Tengah Besar"
+description = "MP4 H.264 1280×720, 16:9, 9,6 detik. Kalimat berganti besar di tengah; kartu akhir menampilkan IG narasumber."
+logical_id = "065e6ef6-10f5-4eb2-99fe-ebc28b967b5c"
+content_hash = "sha256:7af994893fb952d46e805b8250f1fed1b280dcb7329674b691d04bd5815507ff"
+size = 304109
+mtime_ms = 1793184179224
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:966e5701-a669-4cb4-a499-024cad99bf2a/065e6ef6-10f5-4eb2-99fe-ebc28b967b5c/fc509ae3-4a4e-4c12-91d5-92057bf2c8ba"
+storage_version_token = "1793184243869633"
+content_type = "video/mp4"
+
+[[outputs]]
+id = "tLRJBZbFqFbx-3cAOmXA9"
+uri = "file://artifacts/tion-feed/public/assets/ngopi-santai-episode-01-bumper.mp4"
+type = "video"
+title = "Tion Feed Bumper · Label Frasa Dihapus"
+description = "Frasa utama tetap tampil di video Full HD; label kecil FRASA 01 / 05 di bawahnya sudah dihilangkan."
+logical_id = "79d50c30-cf3f-493d-a7c9-c5f9f2d63c61"
+content_hash = "sha256:eedd28bfa8d1bce4b4e86715f63c6784b55dc3e4c0db4ce20615cb58a1462cc4"
+size = 2850490
+mtime_ms = 1793189122772
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:475f6a57-3fef-4952-8a6b-65e18fe925ac/79d50c30-cf3f-493d-a7c9-c5f9f2d63c61/6631fb28-d7bf-4b46-ad73-a2438df30e86"
+storage_version_token = "1793189231625589"
+content_type = "video/mp4"

@@ -1,0 +1,101 @@
+No	Kategori	Berat Badan	Sudut Merah (Red Corner)	Camp Merah	Sudut Biru (Blue Corner)	Camp Biru
+1	Stand Up Fight (Putra Anak)	36 kg	Rei Bahri	Baja Fight Academy	Hilal Wilka Fitra	MUAYTHAI MAJALAYA
+2	Street Boxing (Anak)	30 kg	Taufik Yudistira Setiawan	LASKAR DABORIBO FIGHTING CAMP	Haikal faqihnaffidin	BETA BOXING
+3	Street Boxing (Putri Anak)	31 kg	Tania Putri Setiawan	LASKAR DABORIBO FIGHTING CAMP	Salwa Aulia	DW BOXING
+4	Street Boxing (Putra Junior)	56 kg	Dihya fayyad fairuz	FIGHTER OF MOM	AZKA RAHMAN	3363 FIGHTING CLUB
+5	Street Boxing (Putra Elite Junior)	48 kg	Geirend Firdaus nurjaman	Baja Fight Academy	Diwan Arjuraksa	LASKAR DABORIBO
+6	Street Boxing (Junior Zero)	48 kg	Muhammad fadly tsaubudin	Baja Fight Academy	Firman	BETA BOXING
+7	Street Boxing (Senior Zero Putri)	45 kg	Desi Listriana	LASKAR DABORIBO FIGHTING CAMP	Rezqia Alnatasya	No Camp
+8	Street Boxing (Putra Junior Zero)	52 kg	HELMI AGUSTINA	Baja Garut Selatan	Fajar Nursaid	SMAN 7 GRT
+9	Street Boxing (Putra Senior Zero)	56 kg	Ali sahab	Baja Garut Selatan	Rifqi Nurfarhan	NO CAMP
+10	Street Boxing (Putri Zero)	48 kg	Bela Aulia	Baja Garut Selatan	Aura putri yusup	BETA BOXING
+11	Street Boxing (Putra Junior Zero)	61 kg	M Zulfan raihan	Baja Garut Selatan	Muhamad Helvin fabian	BETA BOXING
+12	Street Boxing (Putra Senior Zero)	48 kg	AJRI CAHYA FIRDAUS	FIGHTER OF MOM	Arifaldi Hermanto Ariga	Baja Garut Selatan
+13	Stand Up Fight Zero Junior Putra	52 kg	Ilman Sabit	B.O.S.S Tasikmalaya	Fadhlan abdurrofi	CIBATU STREET FIGHTER
+14	Street Boxing (Putra Senior Zero)	63 kg	Muhammad Hisam	DAGIANG AJI SATRIA	Mochamad Dava Putra	NO CAMP
+15	Street Boxing (Putra Junior Zero)	61 kg	Satria Arif Rahman	CIBATU STREET FIGHTER	Al Kahfi Muhammad Pahlevi	MUSHAJUKU CAMP
+16	Street Boxing (Putra Junior Zero)	56 kg	Revan Septian	CIBATU STREET FIGHTER	M AGNI AULIA	SW FIGHT ACADEMY
+17	Street Boxing (Putra Senior Zero)	52 kg	MUHAMMAD BILAL ABDULHAQ	FIGHTER OF MOM	Denis	LASKAR DABORIBO FIGHTING CAMP
+18	Street Boxing (Putra Junior Zero)	48 kg	Sansan Setiawan	FORTY ONE TRAINING CAMP	Muhamad Daim Nur Cahya	GARUDA INTAN BOXING
+19	Street Boxing (Putra Senior Zero)	52 kg	ADAM	GARUDA INTAN BOXING CAMP	Rijal	LASKAR DABORIBO FIGHTING CAMP
+20	Street Boxing (Putra Senior Zero)	52 kg	Sundani	SFC (SECRET FIGHTER CLUB)	Muhammad Afgan Maulana	3363 FIGHTING CLUB
+21	Street Boxing (Putra Senior Zero)	83 kg	Reza andika	SFC (SECRET FIGHTER CLUB)	AGUNG PRATAMA	SW FIGHT ACADEMY
+22	Stand Up Fight Senior Putra	52 kg	M RIZKY ABDUL AZIS MUJAMIL	AFA TRAINING CAMP	M. Rizki Mulyana	SHURULKHAN
+23	Stand Up Fight Senior Putra	56 kg	AIDIL RAMADHANI	AFA TRAINING CAMP	RYANDI HERYANA	IBCA MMA KOTA BEKASI
+24	Stand Up Fight (Putri Zero) Junior	48 kg	resti oktapiani	BAJA FIGHT ACADEMY	Azkia fauziah	LASKAR DABORIBO FIGHTING CAMP
+25	Stand Up Fight (Putra Zero)	61 kg	MUHAMMAD ARIJA SAKTI KADJAGA	Baja Fight Academy	Fajar Muzaki	B.O.S.S TASIKMALAYA
+26	Stand Up Fight (Putra Zero)	56 kg	Daffa dzakwan muhadzdzib	Baja Fight Academy	Galih prabu mulia	LASKAR DABORIBO FIGHTING CAMP
+27	Stand Up Fight Senior Putra	52 kg	Fawwaz Mumtaz Hibrizi	Baja Fight Academy	Ilham Akbar	BALADEWA TC
+28	Stand Up Fight Putra Senior	63 kg	wijaya haerunas	Baja Garut Selatan	Setiaji	FORTY ONE TRAINING CAMP
+29	MMA (Putra Senior)	61 kg	Mohammad alfarraz trirama	IBCA KOTA BEKASI	ALEX SKANDER SIAHAAN	WALANGSUNGSANG FIGHTER
+30	MMA (Putra Senior)	70 kg	bimo catur prasetyo	IBCA KOTA BEKASI	Rio Cahyadi	MUSHAJUKU MMA
+31	Stand Up Fight Zero Putra	61 kg	PANDU DWI PUTRA	Baja Garut Selatan	junaidi sugiarta setiawan 	LASKAR DABORIBO FIGHTING CAMP
+32	MMA (Putra Senior)	61 kg	Kamal akmaludin	MUSHAJUKU MMA	Ridho ahmad fauzan	LASKAR DABORIBO FIGHTING CAMP
+33	MMA (Putra Senior)	83 kg	Mochamad rafael andinata	LASKAR DABORIBO FIGHTING CAMP	faizal adriano	WALANGSUNGSANG FIGHTER
+34	Street Boxing (Putra Senior)	70 kg	Nabil ahmad arroyan	POLTEKKES KEMESKES JAKARTA 2	Aldiyana	FIGHTER OF MOM
+35	Stand Up Fight Elite Senior Putra	70 kg	Faisal Maulana	IBCA MMA KOTA BEKASI	Amin Rajabi	Walasungsang Fighter
+36	Stand Up Fight (Putra Junior)	52 kg	Jeri AlSipa	BOXING SMAN 7GARUT	Perdinan syakifah Al insani	ORLUQ
+37	Street Boxing (Putra Senior)	52 kg	Zamzam khoerudin	RIOT OF JOY	JIBRIL ABDUL RAHMAN	FIGHTER OF MOM
+38	Street Boxing (Putra Junior)	52 kg	MUHAMAD FADLAN	RIOT OF JOY	Leo muhamad	NO CAMP
+39	Street Boxing (Putra Senior)	61 kg	RIDWAN MAULANA	CAKRA BUANA	Asep maulana yusup	LASKAR DABORIBO FIGHTING CAMP
+40	Street Boxing (Putra Senior)	61 kg	Albar m sofwann	PER4TAN	Anggi Moh ridwan	BETA BOXING
+41	Street Boxing (Putra)	52 kg	Satria Ramanda	BOXING SMAN 7 GARUT	Moch Fawwaz Alvarizzy	3363 FIGHTING CLUB
+42	Street Boxing (Putra Senior)	83 kg	muhammad rafsanjani sonagar	FIGHTER OF MOM	Rais Sulaiman	Baja Fight Academy
+43	Street Boxing (Putra Junior)	48 kg	Herdiansyah	BETA BOXING	Julpatul sastra wijaya	DW BOXING
+44	Street Boxing (Putra Senior Zero)	56 kg	Hendro Nugraha	CAKRABUANA	Guruh Gumilang	GARUDA INTAN BOXING
+45	Stand Up Fight (Putra)	61 kg	moch regi andalas putra kinantie	VILLS CAMP	Asep Suherman	FORTY ONE TRAINING CAMP
+46	Street Boxing (Putra Senior)	61 kg	Hilal Muharom	TAESYUKHAN	Habiby Albukhori	Ikatan Pelajar Sexy Road
+47	MMA (Putra Senior)	52 kg	Dikri Sulaiman	LASKAR DABORIBO FIGHTING CAMP	Putra pransetia sembiring	IBCA MMA KOTA BEKASI
+48	Stand Up Fight (Putra Junior)	48 kg	Al - Gibran Mauladan	CIBER FIGHTER ACADEMY	ori perdiansyah mulyadi	B O.S.S TASIKMALAYA
+49	MMA (Putra Senior)	56 kg	rafli muhammad fachrizal	DEVENDERS BOIS	Eli Pangaribuan	IBCA KOTA BEKASI
+50	Street Boxing (Putra Junior Zero)	56 kg	Aldo mohamad syawal lukman	3363 FIGHTING CLUB	WILLY WIJAYA	BAJA FIGHT ACADEMY
+51	Stand Up Fight (Putra Junior)	52 kg	Adnan Oktar Al-Faruqi	SHURULKHAN	DAFA ZAHIDAN	SANEKALA FIGHTING CAMP
+52	Stand Up Fight (Putra Junior)	61 kg	M Fahrul Muhajir	SHURULKHAN	Fahmi hermawan	SAMBA
+53	Street Boxing (Putra Senior Zero)	48 kg	Riyadillah Fatul Zulmi	Baja Fight Academy	Iwan nirwana	SFC (SECRET FIGHTER CLUB)
+54	Stand Up Fight (Putra Elite Junior)	56 kg	Ricky Dwi	SEXYROAD FIGHTING CLUB BALAQUTAX	Sembara carlos setiawan	LASKAR DABORIBO FIGHTING CAMP
+55	MMA (Putra Senior)	56 kg	Asep Ricky Maulana	TAROGONG FIGHTER	MUHAMAD IQBAL	INDEPENDENT MUAYTHAI
+56	Street Boxing (Putra Senior Zero)	70 kg	Raziq pratama liraputra	MUSHAJUKU MMA	Muhammad seprianda	WALANG SUNGSANG FIGHTER
+57	Stand Up Fight (Putra Senior Zero)	70 kg	Mihlayel Muhammad Saif Rasikh	SATRIA NEGARA FIGHTING CAMP	Muhammad Ibnu Al athoriq	MUAYTHAI MAJALAYA
+58	Stand Up Fight (Putra Junior Zero)	48 kg	Septian Syarif Hidayat	MUAYTHAI MAJALAYA	m fajar padilah	SECOND HOUSE
+59	Stand Up Fight Putra Senior	56 kg	Nabil al-hakiim mulyana	FORTY ONE TRAINING CAMP	MUHAMAD IQBAL	INDEPENDENT MUAYTHAI
+60	MMA (Putra)	65 kg	Exsel vernaldo	SATRIA NEGARA / IBCA MMA KOTA BEKASI	Feanaldo	Walasungsang
+61	Street Boxing (Putra Senior Zero)	77 kg	Moch dzikry amarulloh	BETA BOXING	Naufal fadlan rahayu	LASKAR DABORIBO
+62	Stand Up Fight (Putra Junior)	52 kg	Muhammad Fhajar	MUAYTHAI BOXING MAJALAYA	Darrell Narendra	Baja X Dulur
+63	MMA (Putra Senior)	52 kg	Muhammad Zaky Albaihaqi	PUSAKA PATALI WARGI	Muhamad Riziq Ramdani	MUSHAJUKU MMA
+64	MMA (Putra Senior)	83 kg	Mahesa Kusuma	MUSHAJUKU MMA	Rizqi Akbar Purnama	KOTA BEKASI
+65	Stand Up Fight Zero Junior Putra (0-1 X Main)	52 kg	Reihan Febrian	THIFAN PO KHAN	Fathan azfarully Permadi	MUAYTHAI PASMA
+66	Street Boxing (Putra Junior)	48 kg	Moch nazril hanif	LASKAR DABORIBO	Muhammad Irpan hamid	RIOT OF JOY
+67	Street Boxing (Putra Junior)	52 kg	Muhamad fitra	LASKAR DABORIBO	Muhammad Khairul Ibad	WALANGSUNGSANG
+68	Street Boxing (Putra) Junior	48 kg	Eshal Malik Ar Razi	LASKAR DABORIBO	Azka Misdaq Munawwir	GUARDIAN FIGHTING CLUB
+69	For Men Striking MMA	54 kg	Anggi Kurniawan	Bandung	Moch Rivad	Majalaya
+70	For Men Striking MMA	54 kg	Ucu Rohendi	Garut	Dea Rendiansyah	Garut
+71	Street Boxing (Putra)	65 kg	muhammad ananda afgan	SMAN 19 GARUT	Yusuf Mahendra	ATENG FIGHTING CLUB
+72	Stand Up Senior Putra Zero	63 kg	Rio Kurniawan	Satria Negara Fighting Camp	Roy Gunawan	Walasungsang
+73	Stand Up Junior Putra Zero	56 kg	Ganjar Prasetyo	Boxing SMAN 7 Garut	Rayi Nawwafi	B.O.S.S Tasikmalaya
+74	Street Boxing Junior Zero	56 kg	Oswald Ritonga	Baja Fight Academy	Davin Ziyad Hayfa	FIGHTER OF MOM
+75	Street Boxing Zero Senior Putra (0-1 X Main)	63 kg	Dody Aria	Walasungsang	Andri Nurdiansah	DAGIANG AJI SATRIA
+76	MMA (Putri Senior)	52 kg	Tyas Rianti	MUSHAJUKU MMA	ESTANIA HERAWATI	INDEPENDENT
+77	Street Boxing (Putra) Junior	48 kg	Fawwaz Ghasani Karir Aduh Dhabbi	LASKAR DABORIBO	Fikri Alghani Wahyudi	GUARDIAN FIGHTING CLUB
+78	Street Boxing (Putra) Junior	52 kg	M Ramdan Rizqi Al mubaroh	BETA BOXING	REFLY ALFIAH SUPRIATNA	Baja Garut Selatan
+79	Street Boxing Zero Senior Putra (0-1 X Main)	70 kg	Rabil muhammad sena	GOLD LION FIGHT HOUSE	Muhamad taopik	SFC (SECRET FIGHTER CLUB)
+80	Stand Up Fight Zero Senior Putra (0-1 X Main)	61 kg	Andika lahallo mayor	IBCA KOTA BEKASI	Taufik Ramadan	DAS KOMANAGA
+81	Stand Up Fight (Putra Junior)	52 kg	Rulian husna pratama	LASKAR DABORIBO	Dennis Sandya Wiwaha	B.O.S.S Tasikmalaya
+82	Street Boxing (Putra Senior)	65 kg	Fahri abdillah holilullah	KOMUNITAS CIKARANG BERKELAHI	Ilham wahyudi	FIGHTER OF MOM
+83	Stand Up Junior Putra Zero	48 kg	Rafa Ramadhan	Baja Fight Garut Selatan	Muhammad reski ardiansyah	LASKAR DABORIBO
+84	Street Boxing Junior Putra 	48 kg	Thomas julian	LASKAR DABORIBO FIGHTING CAMP	Reksa Adiva	TAESYUKHAN
+85	Street Boxing Zero Senior Putra (0-1 X Main)	52 kg	FANDI ANDRIANSAH	Baja Garut Selatan	Heri Herdiansyah	KARSAMEDIKA X NBO
+86	Stand Up Fight Zero Senior Putra (0-1 X Main)	83 kg	DEVALDO DEWANI PUTRA	WALANGSUNGSANG	Ikhsan Maula Zuhri	RBC Boxing
+87	Street Boxing Senior Putra Zero	77 kg	Fathur Jamil	Walasungsang	Ahmad saeful habib	Laskar daboribo
+88	Street Boxing (Putra Anak)	33 kg	Jonas arthur	BETA BOXING	Syahrul Ramadhani Ritonga	TRISULA CAMP
+89	Standup Fight Anak Putra	36 kg	Taufik Yudistira Setiawan	LASKAR DABORIBO FIGHTING CAMP	Rediansyah	NBO
+90	MMA (Putri Senior)	56 kg	Elisa Bahtiar	MUSHAJUKU MMA	OKTAVIA SINTARI FANI	KOTA BEKASI
+91	Stand Up Fight Zero Senior Putri (0-1 X Main)	52 kg	Risris Riska Sanitri	Baja Fight Academy	Chelsea Caroline	IBCA KOTA BEKASI
+92	Street Boxing Zero Junior Putra (0-1 X Main)	63 kg	MASKA KHALFANI FATHIR	FIGHTER OF MOM	Phasya muhammad afrizal	SFC (SECRET FIGHTER CLUB)
+93	Stand Up Fight Senior Putra	52 kg	Agil Septian	Baja Fight Academy	Satria Nazarheksa Nandika	B.O.S.S Kick Boxing Indonesia
+94	Street Boxing Anak Putra	36 kg	Muhammad Reyhan Herdian	GARUDA INTAN BOXING	Muhamad Arkha Mirza	Baja Fight Selatan
+95	Stand Up Fight Zero Junior Putra	56 kg	Hifdi Rifa'i Nurjaman	KOMUNITAS CIKARANG	Fitra Viking Ramadhan	SANEKALA FIGHTING CAMP
+96	Stand Up Fight Zero Junior	45 kg	Iqbal Fauzan Munawar	Laskar Daboribo	Zibal Akbar	Laskar Daboribo
+97	Stand Up Fight Zero Junior	48 kg	Sultan Albi Ramadan	Laskar Daboribo	Atep Darmawan	Laskar Daboribo
+98	MMA Putra Senior	56 kg	rizki darmawan siahaan	SATRIA NEGARA	Rizky Maulana	DHARMA KESATRIA SISWA FIGHTING CLUB
+99	Stand Up Fight Zero Junior Putra	52 kg	Risan aliansah	NBO	Ruslan Nurjaman	MUSHAJUKU MMA
+100	Stand Up Fight Zero Junior Putri	75 kg	Savaira nurtanisha tantowi	MUSHAJUKU MMA	Nazma sofi Sabrina	MUSHAJUKU MMA

@@ -1,0 +1,300 @@
+.rundown-qcard-sheet-block {
+  width: min(100%, 790px);
+}
+
+.rundown-qcard-card {
+  padding: 3.5% 4.6% 2.6%;
+}
+
+.rundown-qcard-card-header {
+  padding-bottom: 2%;
+}
+
+.rundown-qcard-card-header p {
+  font-size: clamp(6px, .86vw, 9px);
+}
+
+.rundown-qcard-card-header h2 {
+  font-size: clamp(14px, 1.9vw, 21px);
+  line-height: 1.16;
+}
+
+.rundown-qcard-card-range {
+  margin-top: 4px;
+  font-size: clamp(7px, .9vw, 10px);
+}
+
+.rundown-qcard-crew {
+  padding: 4px 8px;
+  font-size: clamp(6px, .8vw, 8px);
+}
+
+.rundown-qcard-list {
+  padding-top: 1.2%;
+}
+
+.rundown-qcard-event {
+  grid-template-columns: 6% 22% minmax(0, 1fr);
+  column-gap: .7%;
+  padding: 2.5px 0;
+}
+
+.rundown-qcard-number {
+  font-size: clamp(6px, .75vw, 8px);
+}
+
+.rundown-qcard-time {
+  gap: 4px;
+  font-size: clamp(7px, .9vw, 10px);
+}
+
+.rundown-qcard-copy {
+  gap: 3px;
+}
+
+.rundown-qcard-event-heading {
+  gap: 8px;
+}
+
+.rundown-qcard-title {
+  font-size: clamp(8px, .92vw, 11px);
+  line-height: 1.2;
+}
+
+.rundown-qcard-category {
+  padding: 2px 5px;
+  font-size: clamp(5.5px, .61vw, 7px);
+}
+
+.rundown-qcard-description {
+  font-size: clamp(7.5px, .8vw, 10px);
+  line-height: 1.3;
+}
+
+.rundown-qcard-guide-content {
+  gap: 6px;
+  padding-top: 1.2%;
+}
+
+.rundown-qcard-guide-section {
+  padding-bottom: 5px;
+}
+
+.rundown-qcard-guide-section h3 {
+  margin-bottom: 4px;
+  font-size: clamp(8px, .98vw, 11px);
+  line-height: 1.22;
+}
+
+.rundown-qcard-guide-intro,
+.rundown-qcard-guide-paragraph {
+  margin: 4px 0;
+  font-size: clamp(7.5px, .83vw, 10px);
+  line-height: 1.32;
+}
+
+.rundown-qcard-guide-entries {
+  gap: 3px 14px;
+  margin: 4px 0;
+}
+
+.rundown-qcard-guide-entries li {
+  gap: 8px;
+  padding: 3px 0;
+  font-size: clamp(7px, .81vw, 9px);
+  line-height: 1.3;
+}
+
+.rundown-qcard-guide-entries.is-stacked li {
+  padding: 4px 0;
+}
+
+.rundown-qcard-guide-entries.is-stacked li > span {
+  margin-bottom: 2px;
+}
+
+.rundown-qcard-guide-steps {
+  gap: 5px;
+  margin: 5px 0;
+}
+
+.rundown-qcard-guide-steps li {
+  grid-template-columns: 20px minmax(0, 1fr);
+  gap: 6px;
+}
+
+.rundown-qcard-guide-steps li > span {
+  font-size: clamp(7px, .79vw, 9px);
+}
+
+.rundown-qcard-guide-steps p {
+  font-size: clamp(7px, .82vw, 9.5px);
+  line-height: 1.3;
+}
+
+.rundown-qcard-guide-tag {
+  margin-top: 4px;
+  padding: 3px 8px;
+  font-size: clamp(6px, .68vw, 8px);
+}
+
+@media (max-width: 600px) {
+  .rundown-qcard-sheet-block {
+    width: 100%;
+  }
+
+  .rundown-qcard-card {
+    padding: 3.3% 3.4% 2%;
+  }
+
+  .rundown-qcard-event {
+    grid-template-columns: 6% 23% minmax(0, 1fr);
+  }
+
+  .rundown-qcard-description {
+    font-size: clamp(6.8px, 1.85vw, 8px);
+  }
+}
+
+@media print {
+  .rundown-qcard-mode .rundown-qcard-card {
+    padding: 5mm 9mm 4mm !important;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-card-header {
+    padding-bottom: 3mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-card-header p {
+    font-size: 7.5pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-card-range {
+    margin-top: 1mm;
+    font-size: 9pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-crew {
+    padding: 1.5mm 2.3mm;
+    font-size: 7pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-list {
+    padding-top: 1.5mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-event {
+    grid-template-columns: 10mm 42mm minmax(0, 1fr);
+    column-gap: 1.5mm;
+    padding: .8mm 0;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-number {
+    font-size: 7pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-time {
+    gap: 1.5mm;
+    font-size: 8.8pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-copy {
+    gap: 1mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-event-heading {
+    gap: 2mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-title {
+    font-size: 10pt;
+    line-height: 1.22;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-category {
+    padding: .6mm 1.5mm;
+    font-size: 6.5pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-description {
+    font-size: 9.4pt;
+    line-height: 1.3;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-content {
+    gap: 1.8mm;
+    padding-top: 1.5mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-section {
+    padding-bottom: 1.2mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-section h3 {
+    margin-bottom: .9mm;
+    font-size: 10pt;
+    line-height: 1.2;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-intro,
+  .rundown-qcard-mode .rundown-qcard-guide-paragraph {
+    margin: .8mm 0;
+    font-size: 9pt;
+    line-height: 1.26;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-entries {
+    gap: .8mm 4mm;
+    margin: .8mm 0;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-entries li {
+    gap: 2.5mm;
+    padding: .6mm 0;
+    font-size: 8.7pt;
+    line-height: 1.25;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-entries li > small {
+    font-size: 8.2pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-entries.is-stacked li {
+    padding: .8mm 0;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-entries.is-stacked li > small {
+    font-size: 8.7pt;
+    line-height: 1.25;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-steps {
+    gap: 1.4mm;
+    margin: 1.1mm 0;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-steps li {
+    grid-template-columns: 5mm minmax(0, 1fr);
+    gap: 1.5mm;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-steps li > span {
+    font-size: 8pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-steps p {
+    font-size: 8.8pt;
+    line-height: 1.26;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-guide-tag {
+    margin-top: .8mm;
+    padding: .7mm 1.8mm;
+    font-size: 6.5pt;
+  }
+
+  .rundown-qcard-mode .rundown-qcard-card-footer {
+    padding-top: 2mm;
+    font-size: 5.5pt;
+  }
+}

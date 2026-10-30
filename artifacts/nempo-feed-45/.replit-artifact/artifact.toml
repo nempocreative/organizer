@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/nempo-feed-45/"
+title = "Nempo Feed 4:5"
+description = "Artifact Website standalone untuk preview desain feed Instagram Nempo berformat 4:5 dengan identitas resmi NEMPO GARUT."
+version = "1.0.0"
+id = "artifacts/nempo-feed-45"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/nempo-feed-45/" ]
+localPort = 18914
+
+[services.development]
+run = "pnpm --filter @workspace/nempo-feed-45 run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nempo-feed-45", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nempo-feed-45/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18914"
+BASE_PATH = "/nempo-feed-45/"

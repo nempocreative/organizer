@@ -1,0 +1,146 @@
+[
+  {
+    "id": "halo-nempo",
+    "position": 1,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/01-halo-nempo.tsx",
+    "title": "Nempo — Layanan Kreatif & Event",
+    "description": "Presentasi layanan kreatif Nempo untuk brand dan penyelenggara acara.",
+    "speakerNotes": "Perkenalkan Nempo sebagai tim kreatif dan event partner untuk brand, bisnis, dan acara."
+  },
+  {
+    "id": "cerita-lokal",
+    "position": 2,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/02-cerita-lokal.tsx",
+    "title": "Lima layanan Nempo",
+    "description": "Creator booking, marketing agency, kreatif usaha, event organizer, dan wedding organizer.",
+    "speakerNotes": "Perlihatkan lima layanan utama dan jelaskan bahwa klien bisa memilih layanan sesuai kebutuhan."
+  },
+  {
+    "id": "tempat-rasa-aktivitas",
+    "position": 3,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/03-tempat-rasa-aktivitas.tsx",
+    "title": "Creator Booking",
+    "description": "Tarif mulai: dokumentasi momen acara Rp150.000, video influencer Rp150.000, dan Wedding Content Creator (WCC) Rp350.000.",
+    "speakerNotes": "Sampaikan tarif mulai sesuai kategori: momen acara Rp150.000, video influencer Rp150.000, dan Wedding Content Creator (WCC) Rp350.000. Konfirmasi kebutuhan, durasi, format, jadwal, dan ruang lingkup saat menerima brief."
+  },
+  {
+    "id": "tiga-ruang-nempo",
+    "position": 4,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/04-tiga-ruang.tsx",
+    "title": "Marketing Agency",
+    "description": "Layanan bulanan yang menempatkan Nempo sebagai tim marketing perusahaan: menyusun strategi dan sistem kerja, serta mengelola konten dan aktivitas pemasaran. Kontrak bulanan minimal 3 bulan.",
+    "speakerNotes": "Jelaskan dengan bahasa langsung: Nempo menjadi tim marketing bulanan perusahaan. Tim membantu menyusun strategi dan sistem kerja, lalu mengelola konten dan kegiatan pemasaran bersama perusahaan. Kerja sama dikontrak bulanan dengan durasi minimal 3 bulan."
+  },
+  {
+    "id": "kala-muda",
+    "position": 5,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/05-kala-muda.tsx",
+    "title": "Kreatif Usaha",
+    "description": "Produksi konten, visual, dan branding untuk bisnis.",
+    "speakerNotes": "Tekankan produksi konten, visual, dan branding yang disesuaikan dengan identitas dan kebutuhan bisnis."
+  },
+  {
+    "id": "minat-komunitas",
+    "position": 6,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/06-minat-komunitas.tsx",
+    "title": "Event Organizer",
+    "description": "Festival, konser, sport event, touring, gathering, pameran, expo, corporate event, dan brand activation.",
+    "speakerNotes": "Sebutkan format event yang dapat ditangani Nempo dan sesuaikan contoh dengan kebutuhan calon klien."
+  },
+  {
+    "id": "karya-pertunjukan",
+    "position": 7,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/07-karya-pertunjukan.tsx",
+    "title": "Karya pertunjukan Nempo",
+    "description": "Sembilan kreasi pertunjukan beserta konteks klien atau acara yang tercantum.",
+    "speakerNotes": "Sampaikan setiap karya beserta konteks yang tercantum. Dinas Ketahanan Pangan, HUT RI ke-79, HUT RI ke-80, Family Gathering di Ciwidey, Tahun Baru 2026 Harmoni Garut, Nempo, Temu Tarung, dan Maxi adalah label konteks sesuai materi; jangan menyiratkan bahwa seluruhnya merupakan klien Nempo."
+  },
+  {
+    "id": "acara-yang-dibuat",
+    "position": 8,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/07-acara-dibuat.tsx",
+    "title": "Acara yang dibuat",
+    "description": "Portofolio produksi acara Nempo: NU National Fest, University Coffee Night — Domusa, Lalana Pagi — Kopi Jaya, Pesona Situ Bagendit, Temu Tarung, Night Out Maxi, Color the Beat, Riuh Rona, dan Grand Opening GGS.",
+    "speakerNotes": "Perkenalkan sembilan acara yang dibuat Nempo: NU National Fest; University Coffee Night dengan konteks Domusa; Lalana Pagi dengan konteks Kopi Jaya; Pesona Situ Bagendit; Temu Tarung; Night Out Maxi; Color the Beat; Riuh Rona; dan Grand Opening GGS. Tidak ada konteks tambahan yang dicantumkan untuk acara lainnya."
+  },
+  {
+    "id": "cara-kerja",
+    "position": 9,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/07-cara-kerja.tsx",
+    "title": "Wedding Organizer Management",
+    "description": "Konsultasi, timeline, rundown, briefing tim, koordinasi vendor, keluarga, tamu, dan pengawasan acara hari-H.",
+    "speakerNotes": "Jelaskan bahwa WO Nempo bertanggung jawab pada manajemen dan koordinasi acara. Vendor dekorasi, catering, MUA, dokumentasi, hiburan, dan layanan spesialis lain merupakan vendor independen; tim WO membantu koordinasinya sesuai ruang lingkup."
+  },
+  {
+    "id": "wedding-adat-sunda",
+    "position": 10,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/08-wedding-adat.tsx",
+    "title": "Pilihan adat Sunda",
+    "description": "Pilihan layanan adat Sunda melalui vendor rekanan, dengan atau tanpa musik live.",
+    "speakerNotes": "Sampaikan dua pilihan layanan adat Sunda untuk klien WO Nempo. Paket musik live mencakup kendang, kecapi, suling, sinden, perkusi, penari, lengser, ambu, dan baksa. Opsi tanpa musik live mencakup penari, lengser, ambu, dan baksa. Ketersediaan, jadwal, durasi, dan kebutuhan teknis dikonfirmasi dengan vendor. Jangan menyebut harga."
+  },
+  {
+    "id": "wedding-organizer-paket",
+    "position": 11,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/09-wedding-organizer-paket.tsx",
+    "title": "Paket Wedding Organizer",
+    "description": "Perbandingan paket Essential, Signature, dan Premium untuk layanan manajemen Wedding Organizer Nempo.",
+    "speakerNotes": "Bandingkan cakupan manajemen dan jumlah tim di setiap paket. Harga WO mencakup layanan manajemen, bukan vendor independen seperti dekorasi, catering, MUA, dokumentasi, atau hiburan kecuali disepakati terpisah. Essential tidak termasuk digital invitation dan sawer tool; Signature dan Premium menyertakannya gratis."
+  },
+  {
+    "id": "tarif-khusus-adat-sunda",
+    "position": 12,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/10-tarif-khusus-adat-sunda.tsx",
+    "title": "Tarif khusus adat Sunda",
+    "description": "Tarif spesial klien WO untuk pilihan adat Sunda dengan musik live maupun tanpa musik live.",
+    "speakerNotes": "Sampaikan harga normal dan harga spesial untuk masing-masing opsi, termasuk penghematan Rp700.000. Diskon berlaku untuk klien WO yang memilih salah satu dari dua opsi adat. Harga, ketersediaan vendor, jadwal, durasi, transportasi, dan kebutuhan teknis harus dikonfirmasi kembali dengan vendor rekanan."
+  },
+  {
+    "id": "contoh-total-kombinasi",
+    "position": 13,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/11-contoh-total-kombinasi.tsx",
+    "title": "Contoh total WO + adat Sunda",
+    "description": "Contoh total kombinasi setiap paket WO dengan tarif khusus adat Sunda live atau tanpa musik live.",
+    "speakerNotes": "Jelaskan total contoh Essential, Signature, dan Premium dengan masing-masing tarif khusus adat. Harga WO hanya mencakup manajemen, bukan vendor independen seperti dekorasi, catering, MUA, dokumentasi, atau hiburan kecuali disepakati terpisah. Konfirmasi kembali harga adat dan rincian vendor terkait ketersediaan, jadwal, durasi, transportasi, dan kebutuhan teknis."
+  },
+  {
+    "id": "layanan-saling-terhubung",
+    "position": 14,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/08-layanan-terhubung.tsx",
+    "title": "Layanan Nempo saling terhubung",
+    "description": "Contoh alur kolaborasi kreatif usaha, marketing agency, creator booking, dan event organizer dalam satu kebutuhan brand.",
+    "speakerNotes": "Gunakan contoh ini untuk menunjukkan beberapa layanan Nempo dapat disusun bersama sesuai brief. Kreatif usaha menyiapkan konten dan visual, marketing agency mengarahkan kampanye, creator dan talent mengisi kebutuhan konten atau panggung, lalu event organizer menangani pengalaman acara bila dibutuhkan. Ini contoh alur, bukan paket baku."
+  },
+  {
+    "id": "peran-kita",
+    "position": 15,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/08-peran-kita.tsx",
+    "title": "Cara kerja sama",
+    "description": "Brief, penyusunan rencana kerja, dan eksekusi sesuai ruang lingkup yang disepakati.",
+    "speakerNotes": "Ajak calon klien menyampaikan tujuan, audiens, jadwal, dan kebutuhan tim untuk menyusun rencana kerja."
+  },
+  {
+    "id": "kenalan-yuk",
+    "position": 16,
+    "kind": "jsx",
+    "filepath": "src/pages/slides/09-kenalan-yuk.tsx",
+    "title": "Hubungi Nempo",
+    "description": "Ajakan membahas kebutuhan brand, konten, dan acara melalui WhatsApp 0857 2498 1356, dengan Instagram dan TikTok @nempo.id sebagai kanal sosial.",
+    "speakerNotes": "Arahkan calon klien untuk menghubungi Nempo melalui WhatsApp di 0857 2498 1356. Instagram dan TikTok @nempo.id juga tersedia sebagai kanal sosial."
+  }
+]

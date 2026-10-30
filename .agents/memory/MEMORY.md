@@ -1,0 +1,83 @@
+- [Nempo Garut: per-page Layout remounts](nempo-garut-layout-remount.md) — Layout wraps each page individually (not a single App-level shell), so local component state (e.g. audio players) resets on navigation; use a context provider mounted once in App.tsx instead.
+- [Replit secret existence vs value](replit-secret-existence-vs-value.md) — `viewEnvVars`/available-secrets listing only proves a secret key exists, not that it has a real value; verify with an actual read before assuming an integration is configured.
+- [Nempo Garut: event_orders schema untracked](nempo-garut-event-orders-schema.md) — the `event_orders` table (and its Midtrans columns) has no CREATE TABLE/migration in the repo; schema changes were applied directly to the live DB only.
+- [Nempo Garut crew/tiketing active event](nempo-garut-crew-event-config.md) — crew endpoints target the event flagged `events.crew_active`, not a hardcoded id; admin toggles it per event.
+- [Event ticket quota reservation](event-ticket-quota-reservation.md) — `event_tickets.sold` is reserved atomically at order creation and released on payment failure/rejection, closing a last-ticket race condition.
+- [City filter legacy data](city-filter-legacy-data.md) — location fields may omit the city; use explicit city matching and a guarded Garut fallback for legacy records.
+- [Cafe logical separation](cafe-logical-separation.md) — keep Cafe rows in the legacy kuliner table while separating public/admin access through dedicated endpoints and routes.
+- [Cafe duplicate cleanup](cafe-duplicate-cleanup.md) — deactivate legacy cross-category duplicates instead of deleting rows that may have historical references.
+- [Warm editorial visual direction](partnership-visual-direction.md) — lead invitation and partnership pages with real editorial photography, warm neutrals, and restrained accents instead of abstract SaaS blocks.
+- [GGS Beauty visual direction](ggs-beauty-visual-direction.md) — use professional pink-toned salon imagery and restrained layouts; avoid decorative, generated-looking effects.
+- [GGS Beauty Melon Tea license](ggs-beauty-melon-tea-license.md) — the user confirmed commercial licensing for Melon Tea, allowing its use in GGS promotional graphics.
+- [GGS feed header/footer consistency](ggs-feed-footer-consistency.md) — match slide 2's footer and slide 4's logo/contact footer to slide 1; avoid the rejected transparent hair cutout.
+- [GGS feed slide preservation](ggs-feed-slide-preservation.md) — remove only the requested artwork component; preserve the slide slot and numbering.
+- [GGS poster vector text](ggs-poster-vector-text.md) — mask small raster copy fully before redrawing it in vector to avoid doubled text and visible seams.
+- [GGS slide 2 copy clearance](ggs-slide2-copy-clearance.md) — keep copy clearly below the hair art; make a decisive move when lowering it.
+- [GGS slide 2 photo cutout](ggs-slide2-photo-cutout.md) — don't color-key the salon photo; skin/background hues overlap, so use a clean transparent source or proper segmentation.
+- [GGS quiz facts](ggs-quiz-facts.md) — quiz answer key: owner Imel Arsawijaya, GGS birthday 25 June 2024, tagline “Grooming is Better”; verify services.
+- [GGS year-end loyalty draw](ggs-year-end-loyalty-draw.md) — each Rp1 million in treatment spending earns 1,000 points; each 1,000 points earns one motorbike-draw entry for late December 2026.
+- [Google image rendition limits](google-image-rendition.md) — Google image URL size parameters may still return a small source; avoid upscaling based on the loaded image dimensions.
+- [Cross-source photo duplicates](cross-source-photo-duplicates.md) — different Google/Wanderlog URLs can represent the same image; duplicate checks need perceptual content comparison.
+- [Google vs Nempo reviews](google-vs-nempo-reviews.md) — Google ratings/links are external references; Nempo comments are first-party reviews and must stay visibly separate.
+- [Google Maps photo verification](google-maps-photo-verification.md) — validate linked renditions; use clean category-specific Cafe/Kuliner photo fallbacks.
+- [Replacement delete scope](replacement-delete-scope.md) — when replacing rows, delete old IDs before inserting replacements or scope deletion to the old snapshot.
+- [Bulk data sync validation](bulk-data-sync-validation.md) — positional imports with nullable fields can silently shift values; validate column mappings and query inserted rows immediately.
+- [Nempo contact CTA routing](nempo-garut-contact-cta.md) — public admin/partnership CTAs use Instagram DM; operational WhatsApp flows remain separate.
+- [Nempo Organizer public login](nempo-organizer-public-login.md) — keep sign-in buttons out of public navigation because the site has no login guidance.
+- [Nempo MOU Q Card](nempo-mou-qcard-location.md) — keep it in MOU Rundown; preserve full schedule and guidance on continuation A4 sheets.
+- [Nempo MOU document style](nempo-mou-document-style.md) — keep the MOU professional and attractive, with clear layout and numbering and no unnecessary text.
+- [Nasution Boy storyline reference](nasution-boy-storyline-reference.md) — treat the existing scene text and visual direction as the reference for the user and photographer; don't add notes unless asked.
+- [Nasution Boy PDF export](nasution-boy-pdf-export.md) — generate the storyline PDF directly and keep each scene complete; browser print headers and pagination are not reliably controlled by CSS.
+- [Nempo Kenalan services and identity](nempo-kenalan-brand-identity.md) — present five services, Garut cafe-event collaborations, and Creator Team use cases.
+- [Creator Team carousel direction](creator-team-carousel-direction.md) — show several concise, photo-led cards in one auto-advancing row; avoid fictional names and disclose AI sample images.
+- [Nempo Cultural Tour](nempo-cultural-tour.md) — recurring local market/culture program; sample schedule only, with no confirmed date or location.
+- [Nempo image optimization](nempo-image-optimization.md) — internal uploads are bounded WebP; arbitrary remote URLs need a proxy before format conversion, while Google URLs support bounded renditions.
+- [Nempo web mascot art](nempo-web-mascot-art.md) — use polished transparent mascot artwork with subtle CSS motion; the user rejected rough hand-drawn mascot SVGs.
+- [CMS photo column formats](cms-photo-column-formats.md) — wisata/kuliner galleries are JSONB while influencer galleries are TEXT[], so API boundaries must normalize both and preserve omitted update fields.
+- [Browser video compatibility](browser-video-compatibility.md) — convert uploaded HEVC videos to H.264 before using them in autoplay preview elements.
+- [Halloween pitch deck print layout](halloween-pitch-print-layout.md) — keep the deck in static print flow; fixed body/page heights can make PDF output contain only the first slide.
+- [Digital services redesign review](digital-services-redesign-review.md) — after graduating a visual redesign, review every major section so old treatments do not survive below the hero.
+- [Digi demo palette overrides](digital-demo-palette-overrides.md) — root-level arbitrary color utilities need root selectors; keep operational demos teal while preserving editorial identities.
+- [Partnership CMS area merging](partnership-cms-area-merging.md) — merge saved partnership areas by id so new default categories are added without overwriting custom CMS content.
+- [News source image URLs](news-source-image-urls.md) — official Garut press-release thumbnails are signed and temporary; only persist stable image URLs.
+- [Berita published_at timezone](berita-published-at-timezone.md) — store West Indonesia publication dates at 07:00 UTC so API formatting does not show the previous day.
+- [Uploaded motif transparency](uploaded-motif-transparency.md) — checkerboard backgrounds in supplied PNG motifs may be baked into RGB; derive alpha from color difference before using as CSS background.
+- [Circular logo transparency](circular-logo-transparency.md) — when a circular logo touches all four image edges, flood-fill the exterior from each corner while preserving the enclosed badge fill.
+- [Audio generation fallback](audio-generation-fallback.md) — use espeak-ng and ffmpeg locally when hosted audio generation is unavailable, then verify the final and build-copied MP3.
+- [Mobile website parity](mobile-website-parity.md) — when mobile must match the full public site, load the web app in WebView instead of duplicating every route natively.
+- [Artifact capacity](artifact-capacity.md) — this project is at the nine-artifact limit; ask before replacing an artifact, or integrate the request into an existing app.
+- [Expo mobile preview prefix](expo-mobile-preview-prefix.md) — nested artifact paths need a catch-all route to keep Expo preview URLs on the website WebView shell.
+- [Mobile footer direction](mobile-footer-style.md) — omit per-icon backgrounds; emphasize the active item with size and one brand-blue color.
+- [Mobile touch scroll](mobile-touch-scroll.md) — avoid global non-passive touchmove handlers; diagonal gestures can cancel vertical page scrolling.
+- [Jajan YUK voucher aliases](jajan-yuk-voucher-aliases.md) — treat `kuliner` and `jajan-yuk` as the same voucher scope across listing, validation, and order creation.
+- [Nempo homepage promo display-only](nempo-homepage-promo-display-only.md) — keep homepage promo cards separate from redeemable vouchers and checkout discount rules.
+- [Nempo feed footer framing](nempo-feed-footer-framing.md) — compact footer crops a narrow lower band, so generated subjects must stay fully inside that band.
+- [Public image licensing fallback](public-image-licensing.md) — when image search is unavailable, Wikimedia Commons can provide local image files and creator/license metadata for attributed reuse.
+- [Nempo Feed: protect slide 3](nempo-feed-slide3-preservation.md) — slide 3 must remain unchanged while iterating on slide 4.
+- [Nempo Feed: slide 10 frame](nempo-feed-slide10-frame.md) — preserve the shared header and footer; limit slide 10 redesigns to the center content.
+- [Nempo Feed: slide 16 poster hierarchy](nempo-feed-slide16-reference.md) — match the full food-poster composition, not only the green block treatment.
+- [Nempo Feed: slide 27 text clearance](nempo-feed-slide27-text-clearance.md) — keep the ending note, dialogue, and narration clear of foreground artwork.
+- [Nempo Feed PNG font embedding](feed-png-font-embedding.md) — html-to-image needs CORS-enabled Google Fonts CSS to embed fonts reliably in PNG exports.
+- [Nempo Feed responsive export scaling](nempo-feed-responsive-export.md) — preserve the live DOM layout when exporting responsive slides; scale from the rendered artwork dimensions to the target 3× canvas.
+- [Nempo story export quality](nempo-story-export-quality.md) — export slides 20–28 at 3× and verify backgrounds and image layers in the downloaded PNG.
+- [Nempo Feed narrow CV layout](nempo-feed-narrow-cv.md) — test Slide 5 at 360px; its mobile columns can clip Software even when a 402px preview looks fine.
+- [Nempo Feed aspect-ratio previews](nempo-feed-aspect-ratio-preview.md) — keep 3:4 (1080 × 1440) artwork intact in variable-size previews.
+- [Nempo Feed Sangkuriang composition](sangkuriang-feed-composition.md) — omit ribbons and numbered dialogue; expand the story, justify narration, and preserve spacing.
+- [Nasution Boy logo direction](nasution-boy-logo-direction.md) — use an AI wordmark with chunky, hand-shaped food-inspired letters; keep “Explore Jawa Barat” separate.
+- [Tion Feed portrait identity](tion-feed-portrait-face-preservation.md) — preserve recognizable facial features during AI wardrobe/background edits; inspect likeness before applying the result.
+- [Tion Feed Story wedding background](tion-feed-story-background.md) — use indoor wedding decor with a clear center and floor for the user's later performer composites.
+- [Tion Feed Story compositing](tion-feed-story-compositing.md) — keep supplied face pixels; when background removal is declined, soften local photo blends and disclose residual source backgrounds.
+- [Tion Feed Story contact styling](tion-feed-story-social-contact-style.md) — keep the Saduli Ragap logo in its original colors; make only social icons brown and place contacts in one row.
+- [Tion Feed cafe photo treatment](tion-feed-cafe-photo-treatment.md) — keep cafe slides photographic and character-free; enhance supplied photos without changing venue identity or inventing labels.
+- [Tion Feed font showcase legibility](tion-feed-font-showcase-legibility.md) — let long font names wrap intentionally in compact specimen cards instead of shrinking them until they fit.
+- [Tion Feed export sizing](tion-feed-export-sizing.md) — preserve the preview viewport for cqi-based alignment; force 3× output through canvas scaling only.
+- [Tion Feed bumper media](tion-feed-bumper-title-assets.md) — keep page, poster, and video in sync; redraw burned-in phrases at final resolution to avoid soft text.
+- [Tion Feed café copy direction](tion-feed-cafe-copy-direction.md) — future café slides should use wording based on different song meanings.
+- [GGS coupon PDF output](ggs-coupon-pdf-output.md) — 300 DPI page-level photo composites keep voucher text vector while limiting repeated-image PDF bloat.
+- [GGS Q Card PDF output](ggs-qcard-pdf-output.md) — keep the two A4 covers on one page, use 300-DPI artwork crops, and scale print text to card size.
+- [GGS photobooth print output](ggs-photobooth-pdf-output.md) — use one custom 3 × 2 m PDF page, preserve vector text, and distinguish artwork resolution from voucher DPI.
+- [Canvas iframe auto-placement](canvas-iframe-auto-placement.md) — verify create-auto positions with getCanvasState; multiple frames can land on occupied coordinates.
+- [Python package setup](python-package-install-quirk.md) — this workspace’s `.pythonlibs` is not a valid Python environment, so `uv add` package installs fail until the runtime is configured.
+- [ImageMagick default font](imagemagick-font-default.md) — pass an explicit installed TTF path to montage when it fails annotation with an empty default font.
+- [Kala Muda shift workbook](kala-muda-shift-workbook.md) — keep one shared weekly sheet; enter supplied names and preserve overlapping assignments.
+- [NEMPO Garut data isolation](nempo-garut-database-separation.md) — keep Garut admin in the existing CMS, but remember a dedicated section does not isolate its database.

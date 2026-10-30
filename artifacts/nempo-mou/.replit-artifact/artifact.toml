@@ -1,0 +1,36 @@
+kind = "web"
+previewPath = "/nempo-mou/"
+title = "Nempo MOU"
+description = "Penyusun MOU Nempo untuk kerja sama dengan klien, lengkap dengan pratinjau dokumen dan ekspor PDF."
+version = "1.0.0"
+id = "artifacts/nempo-mou"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/nempo-mou/" ]
+localPort = 18789
+
+[services.development]
+run = "pnpm --filter @workspace/nempo-mou run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nempo-mou", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nempo-mou/dist/public"
+
+[[services.production.rewrites]]
+from = "/kenalan/slide*"
+to = "/kenalan/index.html"
+
+[[services.production.rewrites]]
+from = "/kenalan/allslides"
+to = "/kenalan/index.html"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18789"
+BASE_PATH = "/nempo-mou/"

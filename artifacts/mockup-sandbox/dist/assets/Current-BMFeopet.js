@@ -1,0 +1,1 @@
+import{j as r}from"./index-D9eU06Ur.js";import{SlideFrame as t}from"./SlideFrame-D-ukinJw.js";import"./createLucideIcon-DMC_rQdR.js";import"./message-circle-o2iWLV7E.js";import"./heart-DQLM_33J.js";function n(){return r.jsx(t,{})}export{n as Current};

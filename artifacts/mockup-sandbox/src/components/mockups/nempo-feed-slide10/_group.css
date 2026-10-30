@@ -1,0 +1,31 @@
+.couple-photo-scene {
+  transform-style: preserve-3d;
+}
+
+.couple-art-pop {
+  left: 50%;
+  transform-origin: 50% 85%;
+  transform: translate(-50%, -50%);
+  animation: couple-art-pop-float 5.2s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes couple-art-pop-float {
+  0%,
+  100% {
+    transform: translate3d(-50%, -50%, 18px) rotateX(2deg) rotateY(-9deg)
+      rotateZ(-3deg);
+  }
+
+  50% {
+    transform: translate3d(-50%, -56%, 30px) rotateX(-1deg) rotateY(7deg)
+      rotateZ(2deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .couple-art-pop {
+    animation: none;
+    will-change: auto;
+  }
+}

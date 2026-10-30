@@ -1,0 +1,56 @@
+DAY 1 — Sabtu, 20 Juni 2026				
+Blok 1 — Timbang Badan & Cek Medis (08.00–11.00)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+08.00 – 08.15	ADMIN	Setup & Administrasi Timbang Badan	Indoor Gedung SOR	Tim Medis & Security
+08.15 – 09.15	ADMIN	Timbang Badan & Cek Medis Kloter 1	Indoor Gedung SOR	Tim Medis & Matchmaker
+09.15 – 10.15	ADMIN	Timbang Badan & Cek Medis Kloter 2	Indoor Gedung SOR	Tim Medis & Matchmaker
+10.15 – 11.00	ADMIN	Final Check & Sinkronisasi Data Medis	Indoor Gedung SOR	Matchmaker & Juri
+Blok 2 — Rules Briefing & Technical Meeting (11.00–12.00)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+11.00 – 11.10	RAPAT	Pembukaan & Roll Call Briefing	Indoor Gedung SOR	Wasit Kepala
+11.10 – 11.40	RAPAT	Pemaparan Aturan & Sistem Poin	Indoor Gedung SOR	Promotor & Wasit Kepala
+11.40 – 12.00	RAPAT	Tanya Jawab & Lock Dokumen / Pakta	Indoor Gedung SOR	Promotor & Wasit Kepala
+Blok 3 — Transisi & Persiapan Pawai (12.00–13.00)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+12.00 – 12.30	JEDA	Jeda Teknis — Makan Siang Panitia	Area Luar / Lapangan	Divisi Konsumsi & PJ Lapangan
+12.30 – 13.00	ADMIN	Persiapan 2 Bis Sonagar (Disparbud) & Barisan Moge	Halaman Depan SOR	Koordinator Motor & LO Transportasi
+Blok 4 — Pawai Protokol Kota (13.00–14.30)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+13.00 – 13.15	SEREMONI	Kick-Off Pelepasan Rombongan Pawai	Gerbang Utama SOR	Promotor & Humas
+13.15 – 14.15	SEREMONI	Pawai Atlet — 2 Bis Sonagar Disparbud Keliling Garut	Jalan Protokol Garut	Koordinator Motor & Humas
+14.15 – 14.30	ADMIN	Rombongan Kembali & Pengkondisian	Panggung Ekspresi Luar	Stage Manager & MC Outdoor
+Blok 5 — Talkshow Panel Edukasi (14.30–15.30)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+14.30 – 15.30	SHOW	TALKSHOW PANEL EDUKASI OUTDOOR	Panggung Ekspresi Luar	Stage Manager & Divisi Acara
+Blok 6 — Community War & Festival Sore (15.30–18.00)				
+				
+Terdapat 6 Laga pada blok ini.				
+Waktu	Kategori	Agenda	Lokasi	PIC
+15.30 – 15.45	SEREMONI	Opening Community War: Moge Entry	Mega Arena (Aspal Tengah)	PJ Komunitas & Sanggar Seni
+15.45 – 16.05	TANDING	STREET FIGHT JALANAN — LAGA 1	Matras Tengah Sirkuit Moge	Wasit Jalanan & Time Keeper
+16.05 – 16.25	TANDING	PANCO BATTLE — Babak Penyisihan	Meja Panco Sirkuit Moge	MC Outdoor & Wasit Panco
+16.25 – 16.45	TANDING	STREET FIGHT JALANAN — LAGA 2	Matras Tengah Sirkuit Moge	Wasit Jalanan & Time Keeper
+16.45 – 17.05	TANDING	PANCO BATTLE — Babak Semifinal	Meja Panco Sirkuit Moge	MC Outdoor & Wasit Panco
+17.05 – 17.25	TANDING	STREET FIGHT — MAIN EVENT KO	Matras Tengah Sirkuit Moge	Wasit Jalanan & Tim Medis
+17.25 – 17.45	TANDING	FINAL PANCO & OPEN CHALLENGE	Meja Panco Sirkuit Moge	MC Outdoor & Wasit Panco
+17.45 – 18.00	SEREMONI	CLOSING SORE: Atraksi Pencak Silat	Mega Arena (Aspal Tengah)	Sanggar Seni & MC Outdoor
+Blok 7 — Jeda Maghrib & Night Prep (18.00–19.00)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+18.00 – 18.20	JEDA	Jeda Suara Total — Adzan Maghrib	Seluruh Area Venue	PJ Sound System & Keamanan
+18.20 – 18.45	JEDA	Transaksi Kuliner & Istirahat Malam	Area Festival / UMKM	Tenant UMKM & Multimedia
+18.45 – 19.00	ADMIN	Teaser Profile & Countdown 15 Menit	Panggung Ekspresi Luar	Multimedia & MC Outdoor
+Blok 8 — Grand Opening Night Show (19.00–20.00)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+19.00 – 19.05	SEREMONI	Opening Gimmick: Blackout Panggung	Panggung Ekspresi Luar	Show Director & Lighting
+19.05 – 19.20	SHOW	GRAND OPENING: Tari Tarung Sunda	Panggung Ekspresi Luar	Sanggar Seni & Stage Manager
+19.20 – 19.40	RAPAT	OFFICIAL PRESS CONFERENCE OUTDOOR	Panggung Ekspresi Luar	Promotor & Humas
+19.40 – 20.00	SEREMONI	THE FACE-OFF ADRENALIN! (Staredown)	Panggung Ekspresi Luar	Show Director & Security
+Blok 9 — Night Festival & Gala Dinner (20.00–21.15)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+20.00 – 20.15	SEREMONI	CEREMONY HADIAH KOMUNITAS	Panggung Ekspresi Luar	Promotor / Sponsor Utama
+20.15 – 21.15	SHOW	NIGHT FESTIVAL: LIVE DJ PARTY	Panggung Ekspresi Luar	DJ & Stage Manager Outdoor
+20.15 – 21.15	SHOW	GALA DINNER VIP	Tenda Lounge Outdoor	PJ Lounge VIP & Konsumsi
+Blok 10 — Penutupan (21.15–Selesai)				
+Waktu	Kategori	Agenda	Lokasi	PIC
+21.15 – 21.30	SEREMONI	DJ Closing Set & Imbauan Bubar Tertib	Panggung Ekspresi Luar	MC Outdoor & Security
+21.30 – Selesai	RAPAT	Briefing Kamar Gelap Panitia	Tenda Lounge VIP	Promotor & Semua Koordinator

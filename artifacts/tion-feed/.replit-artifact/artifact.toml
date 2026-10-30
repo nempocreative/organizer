@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/tion-feed/"
+title = "Tion Feed"
+description = "Satu slide feed 4:5 sebagai contoh awal Tion Feed, memakai slide 20 Nempo Feed sebagai acuan visual."
+version = "1.0.0"
+id = "artifacts/tion-feed"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/tion-feed/" ]
+localPort = 23433
+
+[services.development]
+run = "pnpm --filter @workspace/tion-feed run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/tion-feed", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/tion-feed/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23433"
+BASE_PATH = "/tion-feed/"

@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "nempo.id apps"
+version = "1.0.0"
+id = "artifacts/nempo-garut"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23283
+
+[services.development]
+run = "pnpm --filter @workspace/nempo-garut run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nempo-garut", "run", "build" ]
+publicDir = "artifacts/nempo-garut/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23283"
+BASE_PATH = "/"

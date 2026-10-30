@@ -1,0 +1,2 @@
+ALTER TABLE jajan_yuk_orders
+  ADD COLUMN IF NOT EXISTS service_fee INTEGER NOT NULL DEFAULT 0;

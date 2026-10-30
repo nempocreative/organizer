@@ -1,0 +1,72 @@
+modules = ["nodejs-20", "python-3.11", "postgresql-16"]
+[nix]
+channel = "stable-25_05"
+packages = ["freetype", "gumbo", "harfbuzz", "jbig2dec", "libjpeg_turbo", "mupdf", "openjpeg", "swig", "xcbuild"]
+
+[agent]
+expertMode = true
+
+[workflows]
+runButton = "Project"
+
+[deployment]
+deploymentTarget = "vm"
+run = ["bash", "-c", "NODE_ENV=production PORT=${PORT:-8080} pnpm --filter @workspace/api-server run start"]
+build = ["bash", "-c", "pnpm install --frozen-lockfile && NODE_ENV=production pnpm --filter @workspace/nempo-garut run build && NODE_ENV=production pnpm --filter @workspace/admin-panel run build && pnpm --filter @workspace/api-server run build"]
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 180000
+
+[[ports]]
+localPort = 8080
+externalPort = 8080
+
+[[ports]]
+localPort = 18789
+externalPort = 5000
+
+[[ports]]
+localPort = 18914
+externalPort = 4200
+
+[[ports]]
+localPort = 19253
+externalPort = 3000
+
+[[ports]]
+localPort = 19428
+externalPort = 8000
+
+[[ports]]
+localPort = 20130
+externalPort = 3003
+
+[[ports]]
+localPort = 20131
+externalPort = 6800
+
+[[ports]]
+localPort = 21242
+externalPort = 8008
+
+[[ports]]
+localPort = 23283
+externalPort = 3002
+
+[[ports]]
+localPort = 23284
+externalPort = 6000
+
+[[ports]]
+localPort = 23433
+externalPort = 80
+
+[[ports]]
+localPort = 23636
+externalPort = 3001
+
+[[ports]]
+localPort = 24686
+externalPort = 5173
+exposeLocalhost = true

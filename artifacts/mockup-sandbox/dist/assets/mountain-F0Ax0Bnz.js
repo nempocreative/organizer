@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-DMC_rQdR.js";const c=[["path",{d:"m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z",key:"9ktpf1"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],n=o("compass",c);const a=[["path",{d:"m8 3 4 8 5-5 5 15H2L8 3z",key:"otkl63"}]],s=o("mountain",a);export{n as C,s as M};

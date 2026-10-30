@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/nempo-garut-web/"
+title = "NEMPO Garut web"
+description = "Duplikat web NEMPO Garut untuk mempertahankan aplikasi website yang sudah ada sebagai artifact terpisah."
+version = "1.0.0"
+id = "artifacts/nempo-garut-web"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/nempo-garut-web/" ]
+localPort = 19428
+
+[services.development]
+run = "pnpm --filter @workspace/nempo-garut-web run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nempo-garut-web", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nempo-garut-web/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19428"
+BASE_PATH = "/nempo-garut-web/"
